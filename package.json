@@ -1,0 +1,19 @@
+{
+  "name": "thor-text-loader",
+  "version": "1.0.0",
+  "description": "this is my test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xuexing",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thor-1996/text-loader.git"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0"
+  }
+}
